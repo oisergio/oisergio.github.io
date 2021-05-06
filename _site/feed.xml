@@ -2,12 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memoirs</title>
-    <description>I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!</description>
+    <description>Gestão de Produtos, comunidades e algumas abobrinhas :D</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 May 2021 12:07:50 -0400</pubDate>
-    <lastBuildDate>Wed, 05 May 2021 12:07:50 -0400</lastBuildDate>
+    <pubDate>Thu, 06 May 2021 13:56:40 -0400</pubDate>
+    <lastBuildDate>Thu, 06 May 2021 13:56:40 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Equipes de produto vs. Equipes de projeto</title>
+        <description>&lt;p&gt;Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&lt;/p&gt;
+
+&lt;p&gt;Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier.&lt;/p&gt;
+
+&lt;p&gt;Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.&lt;/p&gt;
+
+&lt;p&gt;In 2017 Hache opened a smaller restaurant, L’Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 May 2021 00:00:00 -0400</pubDate>
+        <link>/equipes-de-produto-vs.-equipes-de-projeto/</link>
+        <guid isPermaLink="true">/equipes-de-produto-vs.-equipes-de-projeto/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>Lifestyle</category>
+        
+      </item>
     
       <item>
         <title>Les Ambassadeurs, the first Restaurant we Visited in Paris</title>
@@ -248,29 +275,6 @@ rating: 4.5
         <guid isPermaLink="true">/french-wine/</guid>
         
         <category>France</category>
-        
-        
-        <category>Lifestyle</category>
-        
-      </item>
-    
-      <item>
-        <title>The Observer - National Gallery of Art, Washington, United States</title>
-        <description>&lt;p&gt;The National Gallery of Art, and its attached Sculpture Garden, is a national art museum in Washington, D.C., located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW. Open to the public and free of charge, the museum was privately established in 1937 for the American people by a joint resolution of the United States Congress. Andrew W. Mellon donated a substantial art collection and funds for construction.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The core collection includes major works of art donated by Paul Mellon, Ailsa Mellon Bruce, Lessing J. Rosenwald, Samuel Henry Kress, Rush Harrison Kress, Peter Arrell Browne Widener, Joseph E. Widener, and Chester Dale.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Gallery’s collection of paintings, drawings, prints, photographs, sculpture, medals, and decorative arts traces the development of Western Art from the Middle Ages to the present, including the only painting by Leonardo da Vinci in the Americas and the largest mobile created by Alexander Calder.&lt;/p&gt;
-
-&lt;p&gt;The Gallery’s campus includes the original neoclassical West Building designed by John Russell Pope, which is linked underground to the modern East Building, designed by I. M. Pei, and the 6.1-acre (25,000 m2) Sculpture Garden.&lt;/p&gt;
-
-&lt;p&gt;The Gallery often presents temporary special exhibitions spanning the world and the history of art. It is one of the largest museums in North America.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 -0400</pubDate>
-        <link>/the-observer/</link>
-        <guid isPermaLink="true">/the-observer/</guid>
         
         
         <category>Lifestyle</category>
